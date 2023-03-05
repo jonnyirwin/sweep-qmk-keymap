@@ -1,0 +1,4 @@
+CAPS_WORD_ENABLE = yes
+MOUSEKEY_ENABLE  = no
+LTO_ENABLE       = yes
+COMBO_ENABLE     = yes
