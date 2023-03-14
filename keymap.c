@@ -63,7 +63,7 @@ const uint16_t PROGMEM home[] = {KC_A, KC_Z, COMBO_END};
 const uint16_t PROGMEM end[] = {KC_O, KC_SLSH, COMBO_END};
 const uint16_t PROGMEM esc[] = {KC_J, KC_M, COMBO_END};
 const uint16_t PROGMEM tab[] = {KC_B, KC_G, COMBO_END};
-const uint16_t PROGMEM tmux[] = {KC_ENT, MO(_SYM)};
+const uint16_t PROGMEM tmux[] = {KC_ENT, MO(_SYM), COMBO_END};
 
 combo_t key_combos[COMBO_COUNT] = {
 	[SHIFT_L] = COMBO(shift_l, KC_LSFT),
