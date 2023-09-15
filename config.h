@@ -22,5 +22,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define EE_HANDS
 #define MASTER_LEFT
-#define COMBO_COUNT 18
+#define COMBO_COUNT 19
 #define COMBO_ONLY_FROM_LAYER 0
